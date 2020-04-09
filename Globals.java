@@ -22,11 +22,6 @@ String file_path="";
     public static
     String Url="http://192.168.0.6:8080/";
 
-
-    public static
-     String mail="mehranatashfaraze@gmail",
-            phon="989372647407",
-            name="مهران",
-            famil="آتشفراز";
+ 
 
 }
